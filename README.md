@@ -21,3 +21,13 @@ This project follows a Bitter Lesson–style methodology:
 The goal is to transform problems into forms where scalable search, automation, and computation can operate with minimal human assumptions or hand-crafted tweaks. 
 
 Rather than relying on human intuition about the “right way” to build AI systems, the methodology prioritizes **open-ended exploration, broad possibility spaces, and solutions discovered through scale**.
+
+## LLM-as-Optimizer
+
+Large Language Models, especially those adapted for **test-time scaling**, **long-context reasoning**, **agentic RL**, and **in-context learning**, function as highly general optimizers. They can use diverse signals (tests, metrics, benchmarks) to iteratively refine solutions across many domains.
+
+This generality allows us to convert nearly every component of an AI system into a single unified optimization problem, rather than relying on separate techniques for each part.
+
+In a senset, this is a natural next step in the evolution of LLMs: from **pre-training**, to **instruction tuning**, to **test-time scaling**, and now toward models that can perform **full-stack optimization** of their own environment.
+
+Each previous advance makes this setup more feasible and practical.
