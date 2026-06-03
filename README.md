@@ -1,3 +1,13 @@
+# ⚠️ Note — May 2026
+
+This project is archived and will not be continued.
+
+Development was stopped by practical circumstances — the war in Iran, internet blackouts, months of forced stillness. But the deeper reason is an ethical one. Ironically, it was the blackout itself that gave me the space to think clearly about what I was building. For a while I treated this work as a thrilling engineering challenge without sufficiently reckoning with what I was building toward. The fact that it was just me, solo, moving slowly, far from resulting in something dangerous, doesn't change the foundation I was operating from. Unconstrained self-improvement is not a casual research direction. It deserved more serious thought than I was giving it.
+
+I've redirected my focus to AI safety and alignment — the work that should have been running in parallel all along. Wisdom needs to grow with intelligence. I intend to be on that side of the equation.
+
+---
+
 # Ouroboros  
 **Exploring full-stack optimization for AI systems**
 
